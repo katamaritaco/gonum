@@ -97,5 +97,4 @@ func GemvT(m, n uintptr, alpha float64, a []float64, lda uintptr, x []float64, i
 		}
 		ix += incX
 	}
-
 }
